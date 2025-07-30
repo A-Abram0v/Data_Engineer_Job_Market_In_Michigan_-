@@ -8,4 +8,4 @@ WHERE salary_year_avg IS NOT NULL
     AND job_title_short = 'Data Engineer'
 GROUP BY skills_dim.skills
 ORDER BY salary DESC
-LIMIT 10
+LIMIT 5
