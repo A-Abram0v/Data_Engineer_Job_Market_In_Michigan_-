@@ -235,7 +235,7 @@ ORDER BY avg_salary DESC
 We observe that **Go** stands out by combining **high demand** with a **top average salary**, making it one of the most valuable skills overall.
 Interestingly, **AWS**, which we previously saw leading in salary, appears only in 7th place — suggesting that while it's well-paid, it may not be as broadly in demand as other skills.
 
-| job_count | skills   | avg_salary           |
+| Demand Count | Skills     | Average Salary (USD)    |           
 |-----------|----------|----------------------|
 | 5         | go       | 176800             |
 | 1         | splunk   | 169000             |
